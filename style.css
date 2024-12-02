@@ -1,0 +1,136 @@
+body {
+    background-image: url(e95c16d0-e6a0-472a-a0e5-3ecbf532f35e.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+.topnav {
+    background-color: transparent;
+    overflow: hidden;
+    margin-top: 1rem;
+    font-size: 40px;
+  }
+  
+
+  .topnav a {
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+
+  }
+  
+
+  .topnav a:hover {
+    background-color: transparent;
+    color: white;
+  }
+    
+  .topnav .left{
+    color: white;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-size: 20px;
+  }
+
+  .topnav .left:hover{
+    background-color: transparent;
+    color: white;
+  }
+
+.msg {
+    font-size: 50px;
+    color: whitesmoke;
+    margin-left: 50px;
+    position: fixed;
+
+}
+
+.msg p{
+    font-size: 18px;
+    margin-top: -70px;
+    margin-left: 20px;
+    color: whitesmoke;
+    position: fixed;
+}
+
+
+    
+}
+
+.btn {
+    cursor: pointer;
+    border: 1px solid whitesmoke;
+    background-color: transparent;
+    height: 50px;
+    width: 200px;
+    color: whitesmoke   ;
+    font-size: 1.5em;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+    margin-top: 30rem;
+    margin-left: 35rem;
+    border-radius: 10px;
+}
+
+#pic img{
+    height: 500px;
+    width: 250px;
+    margin-left: 60rem;
+    margin-top: 3rem;
+    border-radius: 50%;
+}
+
+#container p{
+    margin-top: 15rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    color: whitesmoke;
+    font-size: 25px;
+    text-align: justify;
+    position: relative; 
+}
+
+#intro h1 {
+    color: blanchedalmond;
+    margin-top: -400px;
+    font-size: 10rem;
+    margin-left: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#intro h2 {
+    color: aliceblue;
+    font-size: 26px;
+    margin-left: 80px;
+    margin-top: -130px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sports h1 {
+  color: whitesmoke;
+  font-size: 60px;
+  margin-left: 40%;
+  margin-top: 10%;
+}
+
+.chess {
+  height: 250px ;
+  width: 250px;
+  border-radius: 50%;
+  margin-left: 100px;
+  margin-top: 50px;
+  position: relative;
+}
+
+.sports p {
+  color: whitesmoke;
+  font-size: 25px;
+  margin-left: 30px;
+  text-align: justify;
+  margin-right: 800px;
+  
+} 
+
